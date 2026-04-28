@@ -1,0 +1,24 @@
+{
+  "name": "cypress15-scaffolding-",
+  "version": "1.0.0",
+  "description": "Projeto com o esqueleto funcional do Cypress 15x para utilização futura.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hannymarques/cypress15-scaffolding-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hannymarques/cypress15-scaffolding-/issues"
+  },
+  "homepage": "https://github.com/hannymarques/cypress15-scaffolding-#readme",
+  "devDependencies": {
+    "cypress": "^15.14.1"
+  }
+}
